@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEdit, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 
-const url="http://localhost:4000/articulos/";
+const url="https://geratienda.uc.r.appspot.com/articulos/";
 
 class App extends Component {
 state={
